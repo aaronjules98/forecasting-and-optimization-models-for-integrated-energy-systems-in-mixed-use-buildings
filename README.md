@@ -12,7 +12,7 @@ __Prediction Model Framework__
 
 __Optimization Model Framework__
 <p align="center">
-  <img width="800" height="400" src="/Figures/OptimizationModelFramework.jpg">
+  <img width="800" height="200" src="/Figures/OptimizationModelFramework.jpg">
 </p>
 
 ## About the Data Sources
